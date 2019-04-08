@@ -1,0 +1,8 @@
+enum MOTOR_CONFIG
+{
+  FRONT_LEFT = 1,
+  FRONT_RIGHT = 2,
+  BACK_LEFT = 3,
+  BACK_RIGHT = 4,
+  LIFT = 5,
+};
